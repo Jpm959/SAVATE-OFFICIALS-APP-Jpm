@@ -2,7 +2,7 @@
   "name": "SAVATE OFFICIALS",
   "short_name": "SavateOfficials",
   "id": "com.savate.officials",
-  "description": "Application professionnelle pour la gestion des fiches officielles de Savate Boxe Francaise. Interface CPTE complete avec synchronisation temps reel entre juges et delegue officiel.",
+  "description": "Professional application for managing official Savate French Boxing scoresheets. Complete CPTE interface with real-time synchronization between judges and official delegate. Features include scoring validation, automatic calculations, WebRTC connectivity, and comprehensive export capabilities.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait-primary",
